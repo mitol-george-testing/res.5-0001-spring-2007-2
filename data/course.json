@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "64cde08e-416f-44e7-f350-b9a64e1b2d50",
+      "927c0e83-0726-2a13-457c-231aa647d35e",
+      "8b83a2ff-7dcd-6cc1-3bf9-2d672e23c62e",
+      "64760733-4b67-0b44-7cba-c6d997ce9d64"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Digital Lab Techniques Manual",
+  "course_description": "The \"Digital Lab Techniques Manual\" is a series of videos designed to help you prepare for your chemistry laboratory class. Each video provides a detailed demonstration of a common laboratory technique, as well as helpful tips and information. These videos are meant to supplement, and not replace, your lab manual and assigned reading. In fact, you will most benefit from watching the videos if you have already read the appropriate background information. To be a great experimentalist, you must understand both theory and technique! If you have questions about what you see, make sure to ask your TA or your instructor.\n\nWARNING NOTICE:\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented. [Legal Notice](/terms/)\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.5-0001",
+  "learning_resource_types": [
+    "Tutorial Videos"
+  ],
+  "title": "Course Metadata"
+}
